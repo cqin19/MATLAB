@@ -14,3 +14,5 @@ ind_ch='regexp(str1,str_ch)'
 ind_caps='regexp(str1,str_caps)'
 ind_nums='regexp(str1,str_nums)'
 ind_space='regexp(str1,str_space)'
+
+mask=[ind_ch ind_caps ind_nums ind_space]
